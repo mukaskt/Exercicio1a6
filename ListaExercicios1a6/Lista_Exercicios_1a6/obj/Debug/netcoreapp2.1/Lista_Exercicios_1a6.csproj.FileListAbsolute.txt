@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Lista_Exercicios_1a6\Lista_Exercicios_1a6\obj\Debug\netcoreapp2.1\Lista_Exercicios_1a6.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lista_Exercicios_1a6\Lista_Exercicios_1a6\obj\Debug\netcoreapp2.1\Lista_Exercicios_1a6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lista_Exercicios_1a6\Lista_Exercicios_1a6\obj\Debug\netcoreapp2.1\Lista_Exercicios_1a6.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lista_Exercicios_1a6\Lista_Exercicios_1a6\obj\Debug\netcoreapp2.1\Lista_Exercicios_1a6.AssemblyInfo.cs
+C:\Users\user\source\repos\Lista_Exercicios_1a6\Lista_Exercicios_1a6\bin\Debug\netcoreapp2.1\Lista_Exercicios_1a6.deps.json
+C:\Users\user\source\repos\Lista_Exercicios_1a6\Lista_Exercicios_1a6\bin\Debug\netcoreapp2.1\Lista_Exercicios_1a6.runtimeconfig.json
+C:\Users\user\source\repos\Lista_Exercicios_1a6\Lista_Exercicios_1a6\bin\Debug\netcoreapp2.1\Lista_Exercicios_1a6.runtimeconfig.dev.json
+C:\Users\user\source\repos\Lista_Exercicios_1a6\Lista_Exercicios_1a6\bin\Debug\netcoreapp2.1\Lista_Exercicios_1a6.dll
+C:\Users\user\source\repos\Lista_Exercicios_1a6\Lista_Exercicios_1a6\bin\Debug\netcoreapp2.1\Lista_Exercicios_1a6.pdb
+C:\Users\user\source\repos\Lista_Exercicios_1a6\Lista_Exercicios_1a6\obj\Debug\netcoreapp2.1\Lista_Exercicios_1a6.dll
+C:\Users\user\source\repos\Lista_Exercicios_1a6\Lista_Exercicios_1a6\obj\Debug\netcoreapp2.1\Lista_Exercicios_1a6.pdb
