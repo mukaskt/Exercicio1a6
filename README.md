@@ -1,2 +1,3 @@
 # Exercicio1a6
-Atividade de 6 questões.
+Nome:Samuel Fellipe
+RA : 318211348
